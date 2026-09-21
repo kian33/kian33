@@ -1,16 +1,38 @@
-## Hi there 👋
+# Mehdi Abedini Najafabadi
 
-<!--
-**kian33/kian33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Engineer · Researcher · Entrepreneur**
 
-Here are some ideas to get you started:
+Nanotechnology & Biomedical Engineering | Scientific AI | Translational R&D
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Research Interests
+
+* Nanotechnology and Advanced Nanomaterials
+* Biomedical Engineering and Drug Delivery
+* Scientific AI and AI-Assisted Research
+* Bioinformatics and Genomics
+* Advanced Instrumentation and Measurement Systems
+* Industrial R&D and Technology Development
+* Intellectual Property and Technology Translation
+
+## Research & Development Focus
+
+My work focuses on translating scientific knowledge and research concepts into reproducible engineering solutions and deployable technologies through the integration of:
+
+Integrating scientific research, engineering, AI, and technology development for practical and industrial applications.
+
+## Areas of Work
+
+* AI-assisted scientific research and evidence synthesis
+* Research-agent and multi-agent AI systems
+* Biomedical and life-science applications
+* Advanced materials and instrumentation
+* Industrial technology development and scale-up
+* Technology intelligence and research-driven innovation
+
+## Affiliation
+
+### Kian Nano Karno
+
+Research and technology development across nanotechnology, biomedical engineering, advanced instrumentation, and industrial applications.
+
+🌐 [nanokarno.ir](https://nanokarno.ir/)
