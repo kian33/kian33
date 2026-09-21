@@ -21,11 +21,11 @@ My work focuses on integrating scientific research, engineering, AI, and technol
 ## Areas of Work
 
 * AI-assisted scientific research and evidence synthesis
-* Research-agent and multi-agent AI systems
-* Biomedical and life-science applications
-* Advanced materials and instrumentation
-* Industrial technology development and scale-up
-* Technology intelligence and research-driven innovation
+* Research Agent and Multi-Agent AI Systems
+* Biomedical and Life-Science Applications
+* Advanced Materials and Instrumentation
+* Industrial Technology Development and Scale-Up
+* Technology Intelligence and Research-Driven Innovation
 
 ## Affiliation
 
