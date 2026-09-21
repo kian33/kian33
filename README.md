@@ -16,9 +16,7 @@ Nanotechnology & Biomedical Engineering | Scientific AI | Translational R&D
 
 ## Research & Development Focus
 
-My work focuses on translating scientific knowledge and research concepts into reproducible engineering solutions and deployable technologies through the integration of:
-
-Integrating scientific research, engineering, AI, and technology development for practical and industrial applications.
+My work focuses on integrating scientific research, engineering, AI, and technology development to translate research concepts into reproducible engineering solutions and practical industrial applications.
 
 ## Areas of Work
 
